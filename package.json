@@ -1,0 +1,12 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Mini TodoApp made with Vue.JS",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/5wl78kq9x4",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.5.2",
+    "vue-router": "3.0.1"
+  }
+}
